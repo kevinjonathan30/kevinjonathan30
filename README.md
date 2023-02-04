@@ -1,3 +1,5 @@
+![KevinJonathan30's github stats](https://github-readme-stats.vercel.app/api?username=KevinJonathan30&show_icons=true&theme=transparent)
+
 ### Hi there 👋
 
 I am Kevin Jonathan, an ambitious mobile development engineer proficient in iOS app development and Flutter. I have 4+ years of experience in mobile application engineering. I am an alumni from Petra Christian University and Apple Developer Academy.
