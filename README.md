@@ -10,3 +10,6 @@ I am Kevin Jonathan, an ambitious mobile development engineer concentrating in i
 - 💬 Ask me about anything related to technology!
 - 📫 Reach and connect with me on [LinkedIn](https://www.linkedin.com/in/kevinjonathan-30/)
 - ⚡ Fun fact: I am currently open to freelance opportunities (private tutoring, web and mobile app development)
+
+[![LinkedIn](https://img.shields.io/badge/kevinjonathan-30?style=flat&logo=linkedin&color=blue)](https://www.linkedin.com/in/kevinjonathan-30/)
+[![wakatime](https://wakatime.com/badge/user/1db6c852-3171-41e7-a712-13a8d89bce63.svg)](https://wakatime.com/@1db6c852-3171-41e7-a712-13a8d89bce63)
