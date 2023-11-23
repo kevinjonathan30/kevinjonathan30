@@ -9,4 +9,4 @@ My name is Kevin Jonathan, a highly motivated mobile development engineer specia
 - 👯 I’m looking to collaborate on any projects related to Machine Learning!
 - 💬 Ask me about anything related to technology! Currently open to freelance opportunities too!
 - 📫 Reach and connect with me on [LinkedIn](https://www.linkedin.com/in/kevinjonathan3010/).
-- ⚡ Fun fact: I love to play Genshin Impact!
+- ⚡ Fun fact: I love to write articles and play Genshin Impact!
