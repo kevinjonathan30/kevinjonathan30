@@ -4,7 +4,7 @@
 
 My name is Kevin Jonathan, a highly motivated mobile development engineer specializing in iOS app development and Flutter. I hold a degree from Petra Christian University and have completed the prestigious Apple Developer Academy program.
 
-- 🔭 I’m currently doing literature study as a Master Student in Waseda University.
+- 🔭 I’m currently doing literature study as a future Master Student in Waseda University.
 - 🌱 I’m currently learning about SwiftUI, Cybersecurity, and Machine Learning.
 - 👯 I’m looking to collaborate on any projects related to Machine Learning!
 - 💬 Ask me about anything related to technology! Currently open to freelance opportunities too!
