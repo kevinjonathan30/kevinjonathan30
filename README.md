@@ -9,4 +9,4 @@ I am Kevin Jonathan, currently dedicated to my academic endeavors at Waseda Univ
 - 👯 I’m looking to collaborate on any projects related to iOS and Machine Learning!
 - 💬 Ask me about anything related to technology! Currently open to freelance opportunities too!
 - 📫 Reach and connect with me on [LinkedIn](https://www.linkedin.com/in/kevinjonathan3010/).
-- ⚡ Fun fact: I love to write articles and play Genshin Impact!
+- ⚡ Fun fact: I love to write articles and anything related to Pokémon!
