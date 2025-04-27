@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Kevin Jonathan, currently dedicated to my academic endeavors at Waseda University as both a student and a research assistant. I hold a degree from Petra Christian University and have successfully completed the Apple Developer Academy program. Additionally, I contribute as an external code reviewer for Dicoding Indonesia.
+Hello, my name is Kevin Jonathan. I am a graduate student at Waseda University with interests in mobile app development, and UI/UX design. I am currently conducting research in the field of information security. It is a pleasure to meet you.
 
 - 🔭 I’m currently a Research Assistant at Waseda University.
 - 🌱 I’m currently learning about SwiftUI, Cybersecurity, and Machine Learning.
