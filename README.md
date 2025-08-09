@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hello, my name is Kevin Jonathan. I am a graduate student at Waseda University with interests in mobile app development, and UI/UX design. I am currently conducting research in the field of information security. I am also working in Rakuten Group. It is a pleasure to meet you.
+Hello, my name is Kevin Jonathan. I am a graduate student at Waseda University with interests in mobile app development, and UI/UX design. I am currently conducting research in the field of information security. I am also working at Rakuten Group. It is a pleasure to meet you.
 
 - 🔭 I’m currently a Research Assistant at Waseda University.
 - 🌱 I’m currently learning about SwiftUI, Cybersecurity, and Machine Learning.
