@@ -7,6 +7,6 @@ Hello, my name is Kevin Jonathan. I am a graduate student at Waseda University w
 - 🔭 I’m currently a Research Assistant at Waseda University.
 - 🌱 I’m currently learning about SwiftUI, Cybersecurity, and Machine Learning.
 - 👯 I’m looking to collaborate on any projects related to iOS and Machine Learning!
-- 💬 Ask me about anything related to technology! Currently open to freelance opportunities too!
+- 💬 Ask me about anything related to technology! Currently open to opportunities too!
 - 📫 Reach and connect with me on [LinkedIn](https://www.linkedin.com/in/kevinjonathan3010/).
 - ⚡ Fun fact: I love to write articles and anything related to Pokémon!
