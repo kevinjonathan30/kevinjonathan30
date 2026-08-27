@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJonathan30&layout=compact&langs_count=6&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kevinjonathan30&rank_icon=github&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=kevinjonathan30&rank_icon=github&include_all_commits=true&theme=transparent)
 
 ### Hi there 👋
 
