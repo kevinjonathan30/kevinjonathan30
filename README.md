@@ -4,7 +4,7 @@
 
 Hello, my name is Kevin Jonathan. I graduated from Waseda University with interests in software development, information security, and UI/UX design. I am currently working as a software engineer in Tokyo, Japan. It is a pleasure to meet you.
 
-- 🔭 I’m currently an engineer at an IT company in Tokyo, Japan.
+- 🔭 I’m currently a software engineer at a company in Tokyo, Japan.
 - 🌱 I’m currently learning about ReactJS, TypeScript, and other stuff.
 - 👯 I’m looking to collaborate on any projects related to website or mobile apps!
 - 💬 Ask me about anything related to technology! Currently open to opportunities too!
